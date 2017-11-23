@@ -3,7 +3,7 @@ Sebastian Raschka, 2015
 Python Machine Learning - Code Examples
 
 
-##  Chapter 1 - Giving Computers the Ability to Learn from Data
+#  Chapter 1 - Giving Computers the Ability to Learn from Data
 
 - Building intelligent machines to transform data into knowledge
 - The three different types of machine learning
